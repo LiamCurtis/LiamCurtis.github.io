@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Steam Suggests",
+      "picture": "../assets/SteamSug.png",
+      "descrip": "A machine learning algorithm that suggests movies based on a Steam user's recent history."
+    },
+    {
+      "id": "2",
+      "name": "SWE Capstone Assignment",
+      "descrip": "A mobile application designed to manage the schedules of Athletes, Coaches, and Administrators."
+    },
+    {
+      "id": "3",
+      "name": "Graphics Final Video Game",
+      "descrip": "A month-long group project using Java3D to create a fully functional video game."
+    }
+  ]
+}
